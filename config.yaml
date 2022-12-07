@@ -1,0 +1,11 @@
+name: "1BitUral майнинг отель"
+description: "Дополнение Home Assistant для майнинг отелей"
+version: "0.0.1"
+slug: "bitural"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
