@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: Дополнение Home Assistant для майнинг отелей
-url: 'https://github.com/dubovcev/ha_bitural'
+url: "https://github.com/dubovcev/ha_bitural"
 maintainer: Aleksey Dubovcev <dubovcev@gmail.com>
