@@ -1,6 +1,6 @@
 name: "1BitUral майнинг отель"
 description: "Дополнение Home Assistant для майнинг отелей"
-version: "0.0.2"
+version: "0.0.3"
 slug: "bitural"
 init: false
 arch:
@@ -10,5 +10,17 @@ arch:
   - armv7
   - i386
 startup: before
+options:
+  beer: true
+  wine: true
+  liquor: false
+  name: "world"
+  year: 2017
+schema:
+  beer: bool
+  wine: bool
+  liquor: bool
+  name: str
+  year: int
 ports:
   8000/tcp: 8000
