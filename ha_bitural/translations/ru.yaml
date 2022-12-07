@@ -1,0 +1,4 @@
+configuration:
+  message:
+    name: Сообщение
+    description: Тестовое сообщение дополнения.
