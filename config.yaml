@@ -1,6 +1,6 @@
 name: "1BitUral майнинг отель"
 description: "Дополнение Home Assistant для майнинг отелей"
-version: "0.0.4"
+version: "0.0.5"
 slug: "bitural"
 init: false
 arch:
@@ -23,4 +23,4 @@ schema:
   name: str
   year: int
 ports:
-  8000/tcp: 8000
+  8001/tcp: 8001
